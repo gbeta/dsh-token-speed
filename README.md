@@ -4,6 +4,9 @@ DSH 客户端插件：固定在 Web GUI 右下角的**可拖拽环形表盘**，
 
 纯浏览器端插件，不修改任何宿主状态，只读订阅会话数据。
 
+<img width="246" height="275" alt="image" src="https://github.com/user-attachments/assets/29e2f3e7-d711-42f8-978d-ef8e1b0d7162" />
+
+
 ## 功能
 
 - **实时速度**：生成期间，表盘指针 + 中央数字随流式输出实时爬升（按输出文本量 × 实测字符/token 比率估算）。
