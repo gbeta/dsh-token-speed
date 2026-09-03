@@ -1,7 +1,7 @@
 {
   "name": "dsh-token-speed",
-  "version": "0.1.0",
-  "description": "DSH web plugin: a draggable ring-gauge dashboard pinned to the bottom-right that shows live model output speed (tok/s), with an expandable detail panel (per-step exact speed, session average, TTFT, cumulative tokens).",
+  "version": "0.2.0",
+  "description": "DSH web plugin: a draggable ring-gauge dashboard pinned to the bottom-right that shows live model output speed (tok/s), with an expandable detail panel (per-step exact speed, TTFT, cache-hit rate, cache read/write, reasoning and input tokens, model, cumulative tokens).",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
